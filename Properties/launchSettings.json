@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tiendass": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
